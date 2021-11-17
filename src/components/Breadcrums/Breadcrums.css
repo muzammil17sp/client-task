@@ -1,0 +1,13 @@
+.breadcrum-titles{
+    color: #c7c7c7 !important;
+    font-size:18px;
+}
+.breadcrum-main-titles{
+    color: #FFFFFF !important;
+    font-weight: bold !important;
+    font-size:18px !important;
+}
+.MuiBreadcrumbs-separator{
+    color: white !important;
+    font-size:20px !important
+}

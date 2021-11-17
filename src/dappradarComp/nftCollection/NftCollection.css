@@ -1,0 +1,75 @@
+.tab-menu{
+    color: white!important;
+}
+.tab-menu:active{
+    background-color:green!important;
+}
+.time-margin{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-hover:hover{
+    background-color:white!important;
+    cursor: pointer;
+}
+
+.hover-bars{
+    cursor: pointer;
+}
+.table-data{
+    display: flex;
+    justify-content: space-between;
+    color: balck;
+}
+.header-bg{
+    background-color:white;
+    padding: 0!important;
+    margin: 0;
+}
+.icon-lists{
+    display: flex;
+
+}
+.table-heading{
+    color:#888889;
+  
+}
+.table-heading:hover{
+    color: black;
+}
+.tab-menu{
+    text-transform: capitalize!important;
+}
+/* --------------builten classes------------------ */
+.css-19kzrtu{
+    padding: 20px 0!important;
+}
+.css-145dpyk-MuiPaper-root-MuiAlert-root, .MuiAlert-icon {
+    color: white !important;
+}
+.tab-menu:focus {
+    background-color: #f8f9fa!important;
+    color: black!important;
+    border-radius: 21px;
+    border-bottom: none;
+   outline: none;
+}   
+.tab-menu:hover {
+   border-bottom: none;
+   outline: none;
+} 
+.border-green-hover, .css-1aquho2-MuiTabs-indicator{
+background-color: #041941!important;
+
+}
+
+
+
+/*----------------------------- media quries---------------------- */
+/* @media only screen and (min-width:700) {
+    .header-bg{
+        overflow-x: scroll;
+        
+    }
+  } */
+  

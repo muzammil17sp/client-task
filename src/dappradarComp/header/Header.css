@@ -1,0 +1,71 @@
+
+/* .containers{
+    background-color: #006cff;
+} */
+/* .main-navbar{
+    background-color: #006cff;
+   
+} */
+.dropdown-toggle::after {
+    display: none!important;
+ 
+    
+}
+.css-2liczv-MuiBadge-badge{
+    background-color: #fd3e38!important;
+}
+
+.nav-link,.navbar-brand{
+    color: white;
+}
+.search-item{
+    background-color: #004cba;
+    border: none;
+    color: white;
+   
+    
+}
+.search-icon{
+    position: absolute;
+    right: 12rem;
+    top: 1.7rem;
+    color: white;
+}
+.search-item:focus-visible{
+    background-color: #004cba;
+    color: white;
+
+
+}
+.select-language{
+    background-color: #006cff;
+    border: none;
+    color: white;
+
+}
+.select-language:focus-visible{
+    border: none !important;;
+    outline: none !important
+}
+.main-headers{
+        
+    margin-left: 2.5%;
+    margin-right: 0%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .search-icon{
+        
+        display:none!important;
+    }
+
+  }
+  @media only screen and (max-width: 600px) {
+    .main-headers{
+        
+        margin-left: 0%;
+        
+    }
+    
+  }

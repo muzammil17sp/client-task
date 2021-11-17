@@ -1,0 +1,67 @@
+.side-menu{
+    display: flex;
+}
+.icon-sidebar{
+    margin-right: 1rem;
+}
+.side-menu:hover{
+    color: #004cba;
+}
+.join-btn{
+    background-color: #0285b6;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+}
+.apply-btn{
+
+    background-color: #2dcc2b;
+    border: none;
+    outline: none;
+    padding: 5px 20px;
+    border-radius: 16px;
+}
+.right-bar{
+    justify-content:flex-end;
+    display: flex;
+}
+.form-label{
+    display: flex;
+    flex-direction: column;
+}
+.check-point{
+    display: flex;
+    width: 90%;
+}
+.menu-hidden{
+    display: none;
+}
+
+
+/* --------------------------------------------- */
+
+
+
+
+@media only screen and (max-width: 600px) {
+  
+   
+}
+@media only screen and (max-width: 600px) {
+    .btn-texts{
+        font-size:13px
+    }
+    .promoting-text{
+        font-size:16px
+    }
+    .menu-hidden{
+        display: block;
+        
+    }
+    .sidebar-coppied{
+        display: none;
+    }
+    
+  }
+  

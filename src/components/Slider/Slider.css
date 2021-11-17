@@ -1,0 +1,17 @@
+.slider-main-class{
+    height:100%
+}
+.carousal-iamges{
+    height: 280px;
+    padding: 0 6px;
+    border: 1px solid transparent;
+    border-radius: 11px;
+}
+.slick-prev {
+    z-index: 999;
+    margin-left: 2.5rem;
+}
+.slick-next{
+    z-index: 999;
+    margin-right: 2.5rem;
+}

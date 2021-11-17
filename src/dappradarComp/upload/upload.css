@@ -1,0 +1,108 @@
+.upload {
+  background-color: white;
+}
+.upload_form {
+  margin: 20px 0;
+  width: 100%;
+}
+
+.upload_form label {
+  font-size: 14px;
+  font-weight: bold;
+  color: #0f0f0f;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.staric {
+  color: darkgreen;
+  font-size: 16px;
+  margin-left: 3px;
+}
+.protocol_container {
+  display: flex;
+  align-items: center;
+  border: 2px solid #eee;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.protocol_container input {
+  width: 100%;
+
+  border: none;
+  outline: none;
+  color: grey;
+}
+.description_container {
+  border-radius: 5px;
+
+  border: 2px solid #eee;
+  margin-bottom: 15px;
+}
+.fr-toolbar {
+  border: none;
+}
+
+.fr-box {
+  display: flex;
+  flex-direction: column-reverse;
+  border: none;
+  border-radius: 0px;
+}
+.fr-wrapper {
+  border: none;
+  border-radius: 0px;
+}
+.fr-second-toolbar {
+  display: none;
+}
+.fr-view {
+  border: none;
+  border-radius: 0px;
+}
+.fr-box.fr-basic .fr-wrapper {
+  border: none;
+}
+.col-6 {
+  width: 100%;
+}
+.col-6 input {
+  padding: 4px;
+}
+.full_column {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.full_column div{
+    width: 100%;
+margin-right: 4px;
+}
+.wechat_icon{
+  width: 25px;
+  margin-right: 4px;
+}
+.social{
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-top: 2px solid #3971c8;
+  border-bottom: 2px solid #3971c8;
+
+}
+.social h4{
+  color: #4667b4;
+  margin: 10px 0 20px 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+@media screen and (max-width:1000px) {
+  .col-6 {
+    max-width: 100%  }
+  
+.full_column{
+  flex-direction: column;
+}  
+}

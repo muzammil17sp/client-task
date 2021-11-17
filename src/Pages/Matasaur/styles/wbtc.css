@@ -1,0 +1,71 @@
+
+.xlogo-img{
+    height: 21px;
+    width: auto;
+    margin-top: 5px;
+}
+.handshake-img{
+    width: 36px;
+    height: 33px;
+    margin-top: -3px;
+
+}
+.nfl-text{
+    color: white;
+}
+.sportx-bet-text{
+    color:#1348f5;
+}
+.wbtc-bitcoin-section{
+    background-color:white;
+    border:1px solid #F5F6FF;
+    border-radius: 10px;
+}
+.wbtc-bitcoin-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+.wbtc-bitcoin-text{
+    color: #7a7474;
+    font-size: 14px;
+    line-height: 23px;
+}
+.wbtc-icon-twitter{
+    color: #AAAAAA !important;
+    font-size: 1.8rem !important;
+}
+.discord-icon{
+    width: 40px;
+    opacity: 0.7;
+    height: 23px;
+}
+.open-dapp-btn{
+    background-color: #FFA00A;
+    border: 1px solid #FFA00A;
+    color: white;
+    width: 142px;
+    margin-top: 0.8rem;
+    border-radius: 7px;
+    height: 40px;
+    font-weight: bold;
+}
+.counts-in-crrency{
+    color:black;
+    font-family: sans-serif;
+}
+.numbers-in-crrency{
+    color: white;
+    background-color: #AAAAAA;
+    border: 1px solid #AAAAAA;
+    padding: 1px 5px;
+    border-radius: 6px;
+    margin-right: 5px;
+}
+.rate-iamge1 {
+    width: 100px;
+    height: 62px;
+    margin-left: 10px;
+}
+.rate-iamge{
+    width: 71px;
+}

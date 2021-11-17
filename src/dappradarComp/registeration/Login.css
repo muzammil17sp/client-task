@@ -1,0 +1,33 @@
+.mian-containers{
+    width: 30%;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+.form-check{
+    display: flex;
+    justify-content: space-between;
+}
+.login-border{
+    margin: 0 35%;
+    /* border:1px solid gray; */
+    padding:13px;
+    /* border-radius: 16px; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+
+}
+.login-border{
+    margin-top: 10%;
+    border-radius: 16px;
+    
+}
+@media only screen and (max-width: 800px) {
+    .login-border{
+        margin: 0 10%;
+    }
+    .login-border{
+        margin-top: 10%;
+    }
+  }

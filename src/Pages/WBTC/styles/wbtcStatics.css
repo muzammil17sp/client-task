@@ -1,0 +1,81 @@
+.wbtc-statics-main{
+    background-color:white;
+    border:1px solid white;
+    border-radius: 10px;
+}
+.wbtc-statics-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+.wbtc-statics-text{
+    color: #afafaf;
+    font-size:15px
+}
+.statics-sub-heads{
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.statics-quest-mark{
+    border: 1px solid #afafaf;
+    border-radius: 8px;
+    background-color: #afafaf;
+    color: white;
+    padding: 0.1rem 0.2rem;
+}
+.statics-dollar-value{
+    font-size: 25px;
+    font-weight: bold;
+    margin: -10px 1px 1px 1px;
+}
+.statics-minus-ratio{
+    color: red;
+    font-size: 13px;
+}
+.statics-plus-ratio{
+    color: green;
+    font-size: 13px;
+}
+.bitcoin-logo{
+    width:15px;
+    height:15px;
+}
+.tracking-text{
+    color: #5e5555;
+    font-size: 16px;
+}
+.tracking-text-bold{
+    color: black;
+    font-weight: bold;
+}
+.arrow-forward-icon-statics{
+    color: #1B64FF;
+    font-weight: bold !important;
+
+}
+
+.available-day-input{
+    display:none;
+}
+.available-day-label span:hover{
+    color: #1B64FF ;
+    background-color: white;
+    border: 1px solid #1B64FF;
+    cursor: pointer;
+}
+.available-day-label :checked + span {
+    font-weight: bold;
+    color: #1B64FF;
+}
+
+.available-day-label span {
+    display: inline-block;
+    width: 55px;
+    height: 28px;
+    font-style: normal;
+    font-size: 12px;
+    text-align: center;
+    color: #303640;
+    border: 1px solid #e5e5e5;
+    padding-top: 5px;
+}

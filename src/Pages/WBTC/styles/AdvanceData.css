@@ -1,0 +1,39 @@
+.advancedata-main{
+    background-color:white;
+    border:1px solid white;
+    border-radius: 10px;
+}
+.advance-data-head{
+    font-size: 23px;
+    font-weight: bold;
+}
+.advance-data-text{
+    font-size: 16px;
+
+}
+.go-advance-btn{
+    border: 1px solid #F5F9FF;
+    border-radius: 7px;
+    padding: 10px 20px;
+    color: #0C6FFF;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.desc-head{
+    color:#FAFAFA;
+    margin-top: 1rem;
+}
+.desc-wbtc-head{
+    color:white;
+    font-size: 32px;
+
+}
+.desc-wbtc-paragraph{
+    color:white;
+    
+}
+.under-desc-hr{
+    background-color:#0C6FFF;
+    height:1px;
+    margin-top: 2rem !important;
+}

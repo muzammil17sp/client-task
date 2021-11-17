@@ -1,0 +1,61 @@
+.subscribe-Newsletter{
+    color: white;
+    font-size: 20px;
+}
+
+.form-group{
+display: flex;
+}
+.enter-email{
+    background-color:#141313!important;
+}
+.form-check-label{
+    color: gray;
+}
+.notification{
+    background-color:#009cb2;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius:4px;
+    width: 25px;
+    height: 25px;
+    margin-right: 2%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.submit-btn{
+    border-radius: 19px;
+    padding: 0 20px;
+    margin-left: 2%;
+}
+.subscribe-notification{
+    display: flex;
+    color: gray;
+    font-size:15px
+}
+
+.useful-header{
+    color: white;
+}
+.useful{
+    color: gray;
+}
+.main-footers{
+    margin-left: 3.5%;
+}
+
+.footer-contributer{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width: 600px) {
+    .footer-contributer{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+    }
+    
+  }
